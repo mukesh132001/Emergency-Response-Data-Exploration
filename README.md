@@ -38,5 +38,5 @@ The dataset used is `911.csv`, which contains information such as:
 - Weekdays (Mon–Fri) see higher emergency call volume.
 - Most calls occur between **8 AM and 6 PM**.
 
-## 🗃️ Folder Structure
+
 
